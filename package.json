@@ -1,6 +1,6 @@
 {
     "name": "passport-beatsmusic",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Beats Music authentication strategy for Passport.",
     "keywords": [
     "passport",
@@ -27,8 +27,8 @@
   ],
     "main": "./lib/passport-beatsmusic",
     "dependencies": {
-        "pkginfo": "0.2.x",
-        "passport-oauth": "~0.1.2"
+        "pkginfo": "0.3.x",
+        "passport-oauth": "1.0.0"
     },
     "devDependencies": {},
     "engines": {
